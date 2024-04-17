@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CursedTablet : MonoBehaviour
 {
-    public bool collectTablet;
+    public bool collectTablet = false;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

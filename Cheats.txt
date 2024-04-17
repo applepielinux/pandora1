@@ -25,12 +25,65 @@ Dodge = F
 Walkthrough:
 For a visual represnetation of each  level's main path see  the level design section of the design doc.
 
-Level One Walkthrough:
+Level One Walkthrough: Move Pandora to the right and hop down to the next platform, then turn around and hop onto another small platform below you. From here  jump down to the next platform to your left then turn around, jump down and battle a skeleton.
 
+Next, jump to the platform on the right, then continue jumping on platform on tht direction to until you reach Hephestus's Forge. You'll battle several snakes along the way.Return. 
+
+After speaking with Hephesstus, back track a few platforms to where you collected mana and fought a snake.
+Jump to the left then down and to the left. Battle a skeleton and pick  up the health potion if you need it. Jump up to the small platform  on the left and collect the thyme.
+
+Jump to the right, battle a skeleton, then jump down, go right and jump down again to reach your first checkpoint. The jump down to the right, fight another skelteon, jump to the right again then land on a platform below.
+
+Turn left and jump down several times until you find the cursed tablet. Turn right, jump, defeat a skelton, then jump up to the right twice and batte a snake. Head up two more platforms battle a snake and jump up once more.
+
+Jump to the right, fight a skeleton, then head right, then up and right again. Battle another skeleton, jump down and to the right three times  then fight another skeleton and a snake.
+
+Jump up and grab the mana potion then up to the left and fight a snake. Jump up to the left again to unlock the next checkpoint , the jump up to the right to find the Ginger and defeat a snake. Jump left, battle a skeleton, then jump  left again and collect a health potion. 
+
+After the dialoug ends you'll have unlocked the double jump. Use double jump to return to Hephestus's forge. Speak with him and he will fix the  jar.
+
+--end--
 
 
 
 Level Two Walkthrough:
+Defeat the skelton then, jump up and right, battle a snake and jump up and right again. Jump right, kill a skelton then jump to the left  and kill a snakes. Jump up to the right, collect a health potion then jump up to activate a checkpoint.
+
+Jump down to the right, then left and defeat a skelton. Jump down to the left twice then down to the right and down to the left  again. Watch out for the spikes.
+
+Head down and to the left then turn and head down to the right. Turn left jump down then jump down again. Turn around and jump right. Defeat the skeleton and jump up to the right then down rto the right twice. SNag a health potion and jump to the right three times. Jump up and activate the checkpoint 
+Then jump up defeat a skeletona dn jummp up again. Take out another skeleyon, jump up twice and defeat Envy in a boss battle.
+
+--end--
 
 
 Level Three Walkthrough:
+
+Head right, jump down and battle a skelton, jump down again and battle a snake. Go left, jump down then turn right, jump to the next platform and defeat the skeleton there. Jump right, then down to the right  to activate the first checkpoint.
+
+Next jump down to the left then jump down on either side and take out the skeleton and snakes waiting there. Gran the health potion if you need it. Next jump to the left and take out the Harpy (take the manan potion if you need it) then turn right and jump down twice.
+
+Jump left, defeat the Harpy then jump left then down and take out two snakes. Head down to the right, defeat the harpy, contniue down to the right and take out the skeleton. Jump down to the right. Watch the geyser, run acroos it when the wataer is down. Jump up to the right  twice, avoid another geyser and jump right again
+
+Head down to the right twice but watch out for the spikes. Jump up to the right and take down the harpy. Jump right, the down to the left four times and activate the Second Checkpoint.
+
+Jump up to the left twice and kill the skeletopm then jump left and kill a harpy. Jump  down to the left, defeat the harpy then jump down to the left again and deal with a harpy and a skeleton.
+
+Jump down to the left again, kill bothe skeletons and pick up the mana potion, then jump donw to left andtake down another skeleton. jump right avoiding the two geyser traps, then jummp up to the right and kill the skelton. Avoid the geyser trap as you jump to the next platform on the right.
+
+Jump down to the right, kill a snake and jump down on the right again. cross the plaftorm and jump up on the right avoiding the geyser trap, then jump up and take on a harpy and snake.
+
+Jump right twice, dispatch of the skeletonand grab the mana potioin. Jump up, kill a snake, then jump up again and kill a harpy. Jump up to the left, kill a snake, then jump to the right, kill a snake and a skeleton the jump to the left and kill another skeleton.
+
+Jump up  and kill a skeleton while avoding a geyser trap, then jump up and defeat a snake. Jump up once more to activate the third checkpoint.
+
+Jump up to the left , kill a harpy and skeleton then jump up to the right and take out a skeleton. Jump up to the right to begin the boss battke againt Greed
+
+--Boss Battle--
+
+Use dodge and blcok to avoid attacks.
+--
+After defeating Greed, use the Greedy Hands Grappling Hook ability to reach a high up platform.
+
+--end--
+
