@@ -135,8 +135,9 @@ public class LevelManager : MonoBehaviour
         }
         else
         {
+            
             // otheerwise set player at the beginning of the level
-            playerStartPos = checkpoints[0];
+          playerStartPos = checkpoints[0];
         }
     }
 
