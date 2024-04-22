@@ -32,10 +32,10 @@ public class LevelManager : MonoBehaviour
     public Vector3 playerStartPos;
 
     // Holds the transform values of all checkpoints
-    public List<Vector3> checkpoints;
+    public List<Vector3> checkpoints ;
 
     //need to add  transform values of each checkpoint to the checkpoints  list in the order they are unloocked in the game. Must set up levels to do so.
-
+  
 
 
     //levelWon function

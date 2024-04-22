@@ -5,11 +5,11 @@ using UnityEngine;
 
 public class Checkpoint : MonoBehaviour
 {
-    private LevelManager lm;
+    private LevelManager levelManager;
     //start method
     void Start()
     {
-        lm = FindObjectOfType<LevelManager>();
+        levelManager = FindObjectOfType<LevelManager>();
     }
     void onTriggerEnter2D(Collider2D other)
     {
@@ -20,7 +20,7 @@ public class Checkpoint : MonoBehaviour
 
         {
             //sets SavelastCheckPointActivated to current unlocked chechpoint
-            lm.SaveCheckpoint(lm.currentCheckpointIndex);
+            levelManager.SaveCheckpoint(levelManager.currentCheckpointIndex);
         }
 
 
