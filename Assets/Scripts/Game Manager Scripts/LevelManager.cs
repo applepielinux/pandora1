@@ -32,10 +32,15 @@ public class LevelManager : MonoBehaviour
     public Vector3 playerStartPos;
 
     // Holds the transform values of all checkpoints
-    public List<Vector3> checkpoints ;
+    public List<Vector3> checkpoints = new List<Vector3> 
+        {
+        
+        // add transfomr  values for each checkpoint
+        };
 
+    
     //need to add  transform values of each checkpoint to the checkpoints  list in the order they are unloocked in the game. Must set up levels to do so.
-  
+
 
 
     //levelWon function
@@ -78,7 +83,8 @@ public class LevelManager : MonoBehaviour
             checkpointsUnlocked = 0;
 
             // Unlock next level if not the final level
-            if (levelsUnlocked < 9)
+           // if (levelsUnlocked < 9)
+            if(levelsUnlocked < 4)
             {
                 //increment level
                 levelsUnlocked++;
@@ -89,6 +95,7 @@ public class LevelManager : MonoBehaviour
             else
             {
                 // Load credits scene if it's the final level
+                // SceneManager.LoadScene(10);
                 SceneManager.LoadScene(10);
             }
 
@@ -137,7 +144,7 @@ public class LevelManager : MonoBehaviour
         {
             
             // otheerwise set player at the beginning of the level
-       //   playerStartPos = checkpoints[0];
+        playerStartPos = checkpoints[0];
         }
     }
 
